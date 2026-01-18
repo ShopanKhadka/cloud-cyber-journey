@@ -1,0 +1,2 @@
+Today I learned the difference between cloud and traditional IT
+and practiced basic Linux commands.
