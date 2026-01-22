@@ -1,0 +1,2 @@
+Today I learned basic networking ideas:
+IP addresses, public vs private IP, firewalls, and HTTPS.
